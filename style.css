@@ -92,13 +92,14 @@ body {
 
 .project-card h3 {
     margin-bottom: 0.3rem;
+    font-size: 1.2rem;
 }
 
 .project-subtitle {
     font-weight: 600;
-    font-size: 0.9rem;
-    margin-bottom: 1rem;
-    color: #475569;
+    font-size: 0.85rem;
+    color: #6b7280;
+    margin-bottom: 0.8rem;
 }
 
 .project-card ul {
