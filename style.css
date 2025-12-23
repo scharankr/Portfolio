@@ -49,13 +49,14 @@ body {
 }
 
 .btn-primary {
-    background-color: #2563eb;
+    border: 2px solid white;
     color: white;
 }
 
 .btn-secondary {
-    border: 2px solid white;
+    background-color: #2563eb;
     color: white;
+
 }
 
 /* SECTIONS */
