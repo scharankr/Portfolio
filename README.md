@@ -1,4 +1,5 @@
-# Portfolio Website
+# 🚀 Charan | Software Developer Portfolio
+IT Support & Software Development enthusiast with experience in technical troubleshooting, full-stack projects, and problem-solving.
 
 A personal portfolio website showcasing my software development projects, technical skills, and problem-solving approach. This portfolio was built to present my work in a clear, professional format and to provide an easy way for recruiters, employers, and collaborators to learn more about me.
 
@@ -36,7 +37,7 @@ The site includes:
 ### Student Management System
 A Python-based project designed to manage student-related records and operations in an organised way.
 
-### Smart Itinerary Planner
+### Smart Itinerary Planner (In Development)
 A full-stack application currently in development that generates personalised travel plans based on user input and location preferences.
 
 **Tech Stack:**
@@ -45,6 +46,7 @@ A full-stack application currently in development that generates personalised tr
 - API integration
 
 **Note:** Full source code is private because the project is still under active development.
+
 
 ## Folder Structure
 
@@ -55,3 +57,18 @@ Portfolio/
 │── .vscode/
 │── Projects/
 │   └── student-management-system/
+```
+## 🎯 Purpose
+
+This portfolio was built to demonstrate my technical skills, problem-solving ability, and readiness for real-world software development and IT support roles.
+
+## Future Improvements
+- Add more projects
+- Improve project detail pages
+- Add visuals and screenshots
+
+## 📬 Contact
+
+- GitHub: https://github.com/scharankr
+- Portfolio: https://scharankr.github.io/Portfolio/
+
