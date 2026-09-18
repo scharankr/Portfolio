@@ -1,74 +1,143 @@
-# 🚀 Charan | Software Developer Portfolio
-IT Support & Software Development enthusiast with experience in technical troubleshooting, full-stack projects, and problem-solving.
+# 👋 Hi, I'm Charan
 
-A personal portfolio website showcasing my software development projects, technical skills, and problem-solving approach. This portfolio was built to present my work in a clear, professional format and to provide an easy way for recruiters, employers, and collaborators to learn more about me.
+### IT Support & Software Development
 
-## Live Demo
+Computer Science postgraduate with professional experience in technical support at Amazon and hands-on experience developing software projects.
 
-[View Portfolio Website](https://scharankr.github.io/Portfolio/)
+I enjoy troubleshooting technical problems, building practical applications, and learning how different technologies work together. My experience includes technical support, Flutter development, Python, web development, APIs, Firebase, and machine learning.
 
-## About the Project
+🎓 **MSc Computer Science — University of Leicester**  
+Completed 2026 | Results expected November 2026
 
-This portfolio website highlights my background, projects, and technical interests. It was designed with a clean layout to keep the focus on the content while still providing a polished user experience.
+💼 **Currently seeking full-time opportunities** in IT Support, Service Desk, IT Administration, and Software Development.
 
-The site includes:
-- An introduction section
-- A skills overview
-- Featured project highlights
-- Contact information
-- Navigation for smooth browsing
+---
 
-## Tech Stack
+## 🛠️ Technical Skills
 
+### IT Support
+- First-Line Technical Support
+- Technical Troubleshooting
+- Incident & Ticket Management
+- User Support
+- Documentation & Record Keeping
+- Problem Solving
+
+### Programming & Development
+- Python
+- Dart
+- JavaScript
+- SQL
+- Flutter
+- React
+- Node.js
 - HTML
 - CSS
-- JavaScript
 
-## Features
+### Backend & Services
+- Firebase
+- FastAPI
+- REST APIs
+- Cloud Firestore
+- Firebase Authentication
+- Firebase Storage
 
-- Clean and responsive layout
-- Project showcase section
-- Skills and experience overview
-- Simple navigation
-- Hosted with GitHub Pages
+### Tools
+- Git
+- GitHub
+- GitLab
+- Microsoft Windows
+- Microsoft Office
 
-## Projects Featured
+---
 
-### Student Management System
-A Python-based project designed to manage student-related records and operations in an organised way.
+## 🚀 Featured Projects
 
-### Smart Itinerary Planner (In Development)
-A full-stack application currently in development that generates personalised travel plans based on user input and location preferences.
+### 🏠 SmartRent — Property Management & Rent Prediction Platform
 
-**Tech Stack:**
+**MSc Final Year Project | Flutter, Dart, Firebase, Python, FastAPI, Scikit-learn**
+
+A Flutter-based property management application designed for landlords, tenants, and administrators.
+
+Key areas of the project include:
+
+- Role-based authentication for landlords, tenants, and administrators
+- Property and rental application management
+- Lease and document management
+- Maintenance requests and payment records
+- In-app messaging and dispute management
+- Firebase Authentication, Firestore and Storage
+- Python machine-learning service for property-based rent estimation
+- FastAPI backend for serving rent predictions
+- Machine-learning preprocessing, model comparison, cross-validation and evaluation
+- Firebase security rules and backend testing
+
+*The project was developed as an individual MSc project at the University of Leicester.*
+
+---
+
+### ✈️ Smart Itinerary Planner
+
+**React, Node.js, API Integration**
+
+A full-stack application currently under development that generates personalised travel plans based on user input and location preferences.
+
+**Technology:**
 - React
 - Node.js
 - API integration
 
-**Note:** Full source code is private because the project is still under active development.
+> Source code is currently private while the project remains under active development.
 
+---
 
-## Folder Structure
+### 🎓 Student Management System
 
-```text
-Portfolio/
-│── index.html
-│── style.css
-│── .vscode/
-│── Projects/
-│   └── student-management-system/
-```
-## 🎯 Purpose
+**Python**
 
-This portfolio was built to demonstrate my technical skills, problem-solving ability, and readiness for real-world software development and IT support roles.
+A Python-based application for managing student-related records and operations in an organised way.
 
-## Future Improvements
-- Add more projects
-- Improve project detail pages
-- Add visuals and screenshots
+The project demonstrates:
 
-## 📬 Contact
+- CRUD operations
+- Structured data handling
+- Modular programming
+- Python fundamentals
 
-- GitHub: https://github.com/scharankr
-- Portfolio: https://scharankr.github.io/Portfolio/
+---
 
+## 📚 Currently Learning
+
+### CompTIA A+
+
+Currently studying for the **CompTIA A+ certification**, with a focus on IT support, hardware, networking, operating systems, troubleshooting, and security.
+
+---
+
+## 💼 Professional Experience
+
+### Technical Support Associate — Amazon
+
+**March 2023 – January 2025**
+
+- Provided first-line technical support for software, connectivity, and user-related issues.
+- Diagnosed technical problems using structured troubleshooting and questioning.
+- Managed support cases using internal ticketing systems.
+- Maintained accurate case documentation and records.
+- Supported customers through calls, chats, and emails.
+- Prioritised multiple support requests in a fast-paced environment.
+- Escalated complex technical issues appropriately.
+
+---
+
+## 🌐 Portfolio
+
+🔗 [Visit My Portfolio](https://scharankr.github.io/Portfolio/)
+
+---
+
+## 📫 Contact
+
+- **GitHub:** [github.com/scharankr](https://github.com/scharankr)
+- **Portfolio:** [scharankr.github.io/Portfolio](https://scharankr.github.io/Portfolio/)
+- **Email:** scharankr@gmail.com
